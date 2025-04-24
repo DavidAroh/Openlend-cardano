@@ -78,10 +78,3 @@ This decentralized application (dApp) facilitates **trustless, transparent, and 
 
 We believe decentralized finance (DeFi) should serve **everyone**, especially the **underserved**. By combining the **security of Cardano** with the **flexibility of P2P microfinance**, this platform aims to democratize financial access globally.
 
-## 🙌 Contributing
-
-We welcome contributions! Submit a pull request or open an issue to help improve the project.
-
-## 📄 License
-
-MIT License
