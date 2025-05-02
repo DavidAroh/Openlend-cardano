@@ -23,7 +23,7 @@ export const WalletProvider = ({ children }) => {
         const mockWalletData = {
           type: walletType,
           address: 'addr1qxy8rzd8ykr0z6jk5juzt0qw0tpz8c7tt0y6ctnv7p5sh8g8jr79sugagq7caex57z2v6cv8yuqkzg5g5gqqds6h5fcs8kstq6',
-          balance: 2500, // ADA value
+          balance: 5000, // ADA value
           network: 'testnet'
         };
         
